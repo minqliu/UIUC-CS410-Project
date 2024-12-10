@@ -1,0 +1,121 @@
+Airline,Departure Time,Arrival Time,Duration,Price
+Alaska Airlines,06:00,10:15,4h 15m,$325
+Delta,09:45,14:00,4h 15m,$455
+United,13:30,18:30,5h 0m,$220
+American Airlines,07:15,12:45,5h 30m,$670
+JetBlue,05:30,09:45,4h 15m,$390
+Southwest,11:45,17:30,5h 45m,$560
+Spirit,14:00,19:15,5h 15m,$310
+Frontier,08:30,13:30,5h 0m,$205
+Hawaiian Airlines,10:00,14:45,4h 45m,$480
+Sun Country,06:45,12:15,5h 30m,$605
+Alaska Airlines,07:30,12:30,5h 0m,$295
+Delta,12:00,16:15,4h 15m,$425
+United,15:45,20:45,5h 0m,$255
+American Airlines,06:15,11:30,5h 15m,$715
+JetBlue,09:00,13:45,4h 45m,$345
+Southwest,13:15,18:30,5h 15m,$450
+Spirit,07:45,12:45,5h 0m,$230
+Frontier,10:30,15:30,5h 0m,$200
+Hawaiian Airlines,05:15,09:30,4h 15m,$525
+Sun Country,11:00,16:30,5h 30m,$610
+Alaska Airlines,08:00,12:15,4h 15m,$400
+Delta,14:45,19:45,5h 0m,$290
+United,06:30,11:45,5h 15m,$310
+American Airlines,10:15,14:45,4h 30m,$750
+JetBlue,12:30,17:30,5h 0m,$365
+Southwest,09:15,14:45,5h 30m,$585
+Spirit,05:45,10:30,4h 45m,$210
+Frontier,14:00,19:15,5h 15m,$195
+Hawaiian Airlines,07:00,11:30,4h 30m,$495
+Sun Country,13:30,18:30,5h 0m,$620
+Alaska Airlines,06:45,11:45,5h 0m,$335
+Delta,10:30,14:45,4h 15m,$480
+United,15:00,20:30,5h 30m,$275
+American Airlines,08:15,12:30,4h 15m,$660
+JetBlue,07:30,12:00,4h 30m,$420
+Southwest,12:15,17:30,5h 15m,$505
+Spirit,06:00,10:30,4h 30m,$245
+Frontier,09:45,14:45,5h 0m,$210
+Hawaiian Airlines,14:15,19:30,5h 15m,$460
+Sun Country,05:30,10:45,5h 15m,$640
+Alaska Airlines,11:30,16:45,5h 15m,$380
+Delta,06:15,10:30,4h 15m,$310
+United,08:45,13:45,5h 0m,$265
+American Airlines,12:00,16:30,4h 30m,$720
+JetBlue,14:30,19:30,5h 0m,$385
+Southwest,07:00,12:15,5h 15m,$540
+Spirit,10:15,14:45,4h 30m,$220
+Frontier,05:45,11:00,5h 15m,$205
+Hawaiian Airlines,09:00,13:30,4h 30m,$510
+Sun Country,15:00,20:15,5h 15m,$590
+Alaska Airlines,10:30,15:30,5h 0m,$345
+Delta,05:00,09:15,4h 15m,$395
+United,11:45,16:45,5h 0m,$230
+American Airlines,07:15,11:45,4h 30m,$785
+JetBlue,13:00,17:15,4h 15m,$335
+Southwest,06:30,11:45,5h 15m,$495
+Spirit,11:30,16:30,5h 0m,$250
+Frontier,13:45,19:00,5h 15m,$215
+Hawaiian Airlines,08:15,12:30,4h 15m,$560
+Sun Country,09:30,15:00,5h 30m,$630
+Alaska Airlines,12:45,17:00,4h 15m,$410
+Delta,08:00,13:30,5h 30m,$300
+United,10:15,15:15,5h 0m,$280
+American Airlines,14:00,18:30,4h 30m,$700
+JetBlue,05:45,10:00,4h 15m,$405
+Southwest,10:30,15:30,5h 0m,$550
+Spirit,08:15,12:30,4h 15m,$235
+Frontier,06:15,11:30,5h 15m,$190
+Hawaiian Airlines,11:00,15:30,4h 30m,$520
+Sun Country,14:15,19:30,5h 15m,$635
+Alaska Airlines,09:15,14:30,5h 15m,$360
+Delta,07:45,12:00,4h 15m,$440
+United,12:30,17:45,5h 15m,$225
+American Airlines,06:00,10:15,4h 15m,$755
+JetBlue,09:45,14:00,4h 15m,$395
+Southwest,13:30,18:45,5h 15m,$590
+Spirit,14:45,19:45,5h 0m,$270
+Frontier,10:00,15:15,5h 15m,$210
+Hawaiian Airlines,05:30,10:00,4h 30m,$535
+Sun Country,06:45,12:00,5h 15m,$615
+Alaska Airlines,11:45,17:00,5h 15m,$420
+Delta,15:00,19:15,4h 15m,$295
+United,05:15,09:30,4h 15m,$250
+American Airlines,08:30,13:30,5h 0m,$765
+JetBlue,14:15,18:45,4h 30m,$355
+Southwest,09:00,14:15,5h 15m,$510
+Spirit,05:00,10:15,5h 15m,$215
+Frontier,14:30,19:30,5h 0m,$225
+Hawaiian Airlines,07:45,12:15,4h 30m,$490
+Sun Country,11:30,17:00,5h 30m,$600
+Alaska Airlines,06:30,10:45,4h 15m,$365
+Delta,10:00,14:30,4h 30m,$470
+United,13:15,18:30,5h 15m,$285
+American Airlines,05:45,10:00,4h 15m,$735
+JetBlue,07:00,11:30,4h 30m,$355
+Southwest,12:00,17:15,5h 15m,$520
+Spirit,13:45,19:00,5h 15m,$265
+Frontier,08:30,13:30,5h 0m,$240
+Hawaiian Airlines,09:45,14:15,4h 30m,$505
+Sun Country,05:15,10:30,5h 15m,$625
+Alaska Airlines,14:15,19:30,5h 15m,$395
+Delta,06:00,10:30,4h 30m,$435
+United,08:00,12:30,4h 30m,$270
+American Airlines,10:30,14:45,4h 15m,$755
+JetBlue,15:00,19:30,4h 30m,$425
+Southwest,05:15,09:45,4h 30m,$480
+Spirit,09:30,14:30,5h 0m,$280
+Frontier,11:45,16:45,5h 0m,$200
+Hawaiian Airlines,13:00,17:15,4h 15m,$540
+Sun Country,07:30,12:45,5h 15m,$645
+Alaska Airlines,05:30,09:45,4h 15m,$355
+Delta,09:15,14:15,5h 0m,$305
+United,14:30,19:30,5h 0m,$250
+American Airlines,06:30,11:45,5h 15m,$710
+JetBlue,11:00,16:00,5h 0m,$375
+Southwest,08:45,14:00,5h 15m,$565
+Spirit,10:00,14:30,4h 30m,$245
+Frontier,06:00,11:00,5h 0m,$220
+Hawaiian Airlines,14:00,18:30,4h 30m,$530
+Sun Country,10:15,15:30,5h 15m,$600
